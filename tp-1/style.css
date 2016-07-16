@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	color: red;
+	border: 11px solid;
+}
+
+
+logo {
+	width: 20px;
+	height: 20px;
+}
